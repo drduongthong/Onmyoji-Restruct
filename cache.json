@@ -1,0 +1,146 @@
+{
+  "quest_secret_exit.png": [
+    33,
+    28
+  ],
+  "secret_weekly_challenge.png": [
+    711,
+    356
+  ],
+  "event_1.png": [
+    702,
+    404
+  ],
+  "exploration_zone.png": [
+    708,
+    90
+  ],
+  "quest_board_tracked_undone.png": [
+    73,
+    246
+  ],
+  "raid_result_fail.png": [
+    290,
+    66
+  ],
+  "quest_location.png": [
+    379,
+    124
+  ],
+  "quest_secret_challenge.png": [
+    677,
+    362
+  ],
+  "secret_weekly_notcleared.png": [
+    298,
+    348
+  ],
+  "quest_done.png": [
+    42,
+    98
+  ],
+  "ready.png": [
+    721,
+    360
+  ],
+  "quest_challenge.png": [
+    579,
+    330
+  ],
+  "raid_victory.png": [
+    289,
+    63
+  ],
+  "victory_tabtocon.png": [
+    392,
+    427
+  ],
+  "end.png": [
+    365,
+    325
+  ],
+  "quest_secret_quit.png": [
+    725,
+    46
+  ],
+  "quest_challenge_exit.png": [
+    714,
+    74
+  ],
+  "quest_unshown_quit.png": [
+    205,
+    189
+  ],
+  "quest_unshown.png": [
+    43,
+    229
+  ],
+  "quest_claim.png": [
+    392,
+    139
+  ],
+  "first_accept.png": [
+    86,
+    157
+  ],
+  "request_accept.png": [
+    522,
+    256
+  ],
+  "assembly_challenge.png": [
+    679,
+    367
+  ],
+  "victory_general.png": [
+    48,
+    41
+  ],
+  "fight.png": [
+    746,
+    393
+  ],
+  "quest_board.png": [
+    401,
+    46
+  ],
+  "quest_trackall.png": [
+    701,
+    379
+  ],
+  "quest_undone.png": [
+    425,
+    284
+  ],
+  "rift_go.png": [
+    710,
+    384
+  ],
+  "rift_challenge.png": [
+    709,
+    386
+  ],
+  "duel_fight.png": [
+    734,
+    376
+  ],
+  "duel_auto_deploy.png": [
+    38,
+    98
+  ],
+  "mode_manual.png": [
+    37,
+    407
+  ],
+  "duel_victory_topduel.png": [
+    134,
+    86
+  ],
+  "event_2.png": [
+    735,
+    387
+  ],
+  "quest_story.png": [
+    640,
+    370
+  ]
+}
